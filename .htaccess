@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteRule ^Raffle$ index.html [NC]
+RewriteRule ^register$ index.html [NC]
+RewriteRule ^tables$ index.html [NC]
+RewriteRule ^admin$ index.html [NC]
+RewriteRule ^dashboard$ index.html [NC]
+RewriteRule ^error$ index.html [NC]
+RewriteRule ^signout$ index.html [NC]
